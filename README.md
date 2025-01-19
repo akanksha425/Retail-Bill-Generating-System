@@ -31,7 +31,8 @@ Database: Cloud
 
 Clone the repository:
 
-git clone https://github.com/yourusername/retail-billing-system.git
+git clone https://github.com/
+akanksha425/Retail-Bill-Generating-System1.git
 
 Navigate to the project directory:
 
