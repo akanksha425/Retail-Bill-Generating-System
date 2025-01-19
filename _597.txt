@@ -1,0 +1,19 @@
+		**welcome customer**
+
+Bill Number: 597
+
+Customer Name:sqjyuh
+
+Customer Phone Number:437548
+
+ =============================================================
+Product		Unit Price		Quantity		Price
+ =============================================================
+
+Face cream 		50		01		50 Rs
+Face Wash  		80		3		300 Rs
+--------------------------------------------------
+Cosmteic Tax				42.0 Rs
+
+Total Bill				392.0
+--------------------------------------------------
