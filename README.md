@@ -32,7 +32,7 @@ Database: Cloud
 Clone the repository:
 
 git clone https://github.com/
-akanksha425/Retail-Bill-Generating-System1.git
+akanksha425/Retail-Bill-Generating-System.git
 
 Navigate to the project directory:
 
